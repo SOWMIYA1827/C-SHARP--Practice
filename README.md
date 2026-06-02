@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0231-power-of-two/) | Easy |
 | [1025-divisor-game](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/1025-divisor-game/) | Easy |
+| [2469-convert-the-temperature](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
