@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2469-convert-the-temperature](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/2652-sum-multiples/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
