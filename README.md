@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/1025-divisor-game/) | Easy |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0268-missing-number](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,8 +70,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0268-missing-number](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0268-missing-number/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
