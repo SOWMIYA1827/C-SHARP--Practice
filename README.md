@@ -51,4 +51,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/C-SHARP--Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
